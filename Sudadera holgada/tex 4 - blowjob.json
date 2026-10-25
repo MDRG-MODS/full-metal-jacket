@@ -1,0 +1,98 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 4 - blowjob_texture0_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "LongHoodieFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 658,
+                        "height": 365
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "LongHoodieHoodFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 380,
+                        "width": 592,
+                        "height": 337
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "LongHoodieHoodBack",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 727,
+                        "width": 588,
+                        "height": 280
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "LongHoodieChest",
+                    "RectInt": {
+                        "x": 607,
+                        "y": 380,
+                        "width": 558,
+                        "height": 375
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "LongHoodieShoulderL",
+                    "RectInt": {
+                        "x": 607,
+                        "y": 765,
+                        "width": 284,
+                        "height": 428
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "LongHoodieShoulderR",
+                    "RectInt": {
+                        "x": 901,
+                        "y": 765,
+                        "width": 284,
+                        "height": 426
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "AltLongHoodieString",
+                    "RectInt": {
+                        "x": 673,
+                        "y": 5,
+                        "width": 272,
+                        "height": 222
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                }
+            ],
+            "Targets": [
+                "blowjob"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

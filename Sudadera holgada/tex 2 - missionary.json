@@ -1,0 +1,182 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 2 - missionary_texture0_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "LongHoodieUpBack",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 520,
+                        "height": 372
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "LongHoodieBottomFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 387,
+                        "width": 577,
+                        "height": 308
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "LongHoodieBack",
+                    "RectInt": {
+                        "x": 535,
+                        "y": 5,
+                        "width": 567,
+                        "height": 311
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "LongHoodieUpFront",
+                    "RectInt": {
+                        "x": 592,
+                        "y": 387,
+                        "width": 526,
+                        "height": 320
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "LongHoodieFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 705,
+                        "width": 452,
+                        "height": 376
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "LongHoodieChest",
+                    "RectInt": {
+                        "x": 592,
+                        "y": 717,
+                        "width": 425,
+                        "height": 304
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "LongHoodieSleeveR",
+                    "RectInt": {
+                        "x": 1027,
+                        "y": 717,
+                        "width": 377,
+                        "height": 314
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "LongHoodieSleeveL",
+                    "RectInt": {
+                        "x": 592,
+                        "y": 1031,
+                        "width": 349,
+                        "height": 335
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "LongHoodieSleeve2L",
+                    "RectInt": {
+                        "x": 1027,
+                        "y": 1041,
+                        "width": 246,
+                        "height": 379
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "LongHoodieHoodFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 1091,
+                        "width": 433,
+                        "height": 184
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "LongHoodieSleeve2R",
+                    "RectInt": {
+                        "x": 1112,
+                        "y": 5,
+                        "width": 234,
+                        "height": 368
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "LongHoodieHoodBack",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 1285,
+                        "width": 403,
+                        "height": 166
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "AltLongHoodieStringL",
+                    "RectInt": {
+                        "x": 467,
+                        "y": 705,
+                        "width": 91,
+                        "height": 113
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "AltLongHoodieStringR",
+                    "RectInt": {
+                        "x": 467,
+                        "y": 828,
+                        "width": 106,
+                        "height": 94
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                }
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}
