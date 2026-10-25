@@ -1,0 +1,110 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 5 - cowgirl_texture0_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "LongHoodieFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 839,
+                        "height": 811
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "LongHoodieChest",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 826,
+                        "width": 570,
+                        "height": 502
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "LongHoodieBack",
+                    "RectInt": {
+                        "x": 585,
+                        "y": 826,
+                        "width": 828,
+                        "height": 199
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "LongHoodieUppperArmL",
+                    "RectInt": {
+                        "x": 854,
+                        "y": 5,
+                        "width": 292,
+                        "height": 631
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "LongHoodieUppperArmR",
+                    "RectInt": {
+                        "x": 1156,
+                        "y": 5,
+                        "width": 293,
+                        "height": 627
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "LongHoodieHood",
+                    "RectInt": {
+                        "x": 585,
+                        "y": 1035,
+                        "width": 506,
+                        "height": 106
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "AltLongHoodieStringL",
+                    "RectInt": {
+                        "x": 854,
+                        "y": 646,
+                        "width": 130,
+                        "height": 145
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "AltLongHoodieStringR",
+                    "RectInt": {
+                        "x": 994,
+                        "y": 646,
+                        "width": 114,
+                        "height": 129
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                }
+            ],
+            "Targets": [
+                "cowgirl"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

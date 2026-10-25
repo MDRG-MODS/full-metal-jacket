@@ -1,0 +1,98 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 1 - doggy_texture0_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "LongHoodieSleeveFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 371,
+                        "height": 272
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "LongHoodieTorso",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 287,
+                        "width": 350,
+                        "height": 354
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "LongHoodieChest",
+                    "RectInt": {
+                        "x": 365,
+                        "y": 287,
+                        "width": 265,
+                        "height": 244
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "LongHoodieHood",
+                    "RectInt": {
+                        "x": 386,
+                        "y": 5,
+                        "width": 218,
+                        "height": 120
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "AltLongHoodieStringFront",
+                    "RectInt": {
+                        "x": 640,
+                        "y": 287,
+                        "width": 46,
+                        "height": 156
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "LongHoodieSleeveBack",
+                    "RectInt": {
+                        "x": 365,
+                        "y": 541,
+                        "width": 148,
+                        "height": 152
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "AltLongHoodieStringBack",
+                    "RectInt": {
+                        "x": 523,
+                        "y": 541,
+                        "width": 42,
+                        "height": 148
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

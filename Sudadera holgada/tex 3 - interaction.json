@@ -1,0 +1,182 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 3 - interaction_texture0_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "LongHoodieFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 876,
+                        "height": 1249
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "LongHoodieLowerArmL",
+                    "RectInt": {
+                        "x": 891,
+                        "y": 5,
+                        "width": 473,
+                        "height": 854
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "LongHoodieLowerArmR",
+                    "RectInt": {
+                        "x": 891,
+                        "y": 869,
+                        "width": 464,
+                        "height": 854
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "LongHoodieChest",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 1264,
+                        "width": 622,
+                        "height": 610
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "LongHoodieUppperArmR",
+                    "RectInt": {
+                        "x": 1365,
+                        "y": 869,
+                        "width": 407,
+                        "height": 695
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "LongHoodieUppperArmL",
+                    "RectInt": {
+                        "x": 1374,
+                        "y": 5,
+                        "width": 399,
+                        "height": 668
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "LongHoodieHoodBack",
+                    "RectInt": {
+                        "x": 1365,
+                        "y": 1574,
+                        "width": 701,
+                        "height": 379
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "LongHoodieRaisedArmFrontR",
+                    "RectInt": {
+                        "x": 1782,
+                        "y": 869,
+                        "width": 402,
+                        "height": 661
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "LongHoodieRaisedArmFrontL",
+                    "RectInt": {
+                        "x": 1783,
+                        "y": 5,
+                        "width": 397,
+                        "height": 658
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "LongHoodieHoodFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 1884,
+                        "width": 631,
+                        "height": 346
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "LongHoodieRaisedArmBackL",
+                    "RectInt": {
+                        "x": 891,
+                        "y": 1733,
+                        "width": 254,
+                        "height": 218
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "LongHoodieRaisedArmBackR",
+                    "RectInt": {
+                        "x": 891,
+                        "y": 1961,
+                        "width": 254,
+                        "height": 218
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "AltLongHoodieStringL",
+                    "RectInt": {
+                        "x": 637,
+                        "y": 1264,
+                        "width": 122,
+                        "height": 273
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "AltLongHoodieStringR",
+                    "RectInt": {
+                        "x": 637,
+                        "y": 1547,
+                        "width": 118,
+                        "height": 273
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                }
+            ],
+            "Targets": [
+                "interaction"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

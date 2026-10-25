@@ -1,0 +1,16 @@
+{
+    "name": "Leather Jacket",
+    "description": "blah blah blah mr freeman",
+    "OnGameStart": {
+        "luaFiles": [
+            "script.lua"
+        ]
+    },
+    "targetVersion": "0.90.6",
+    "doNotChangeVariablesBelowThis": {
+        "timeCreated": 639235424832265403,
+        "guid": {
+            "serializedGuid": "e42345c4-67f2-4231-a6b3-734bba14e113"
+        }
+    }
+}
